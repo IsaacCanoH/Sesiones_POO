@@ -1,0 +1,9 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>230</x><y>260</y><w>100</w><h>30</h></coordinates><panel_attributes>Venado</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLInterface</id><coordinates><x>300</x><y>110</y><w>80</w><h>90</h></coordinates><panel_attributes>Hervivoro
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>90</x><y>210</y><w>100</w><h>30</h></coordinates><panel_attributes>/Animal/
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>270</x><y>130</y><w>160</w><h>150</h></coordinates><panel_attributes>lt=&lt;&lt;.
+se comporta como</panel_attributes><additional_attributes>70;10;10;130</additional_attributes></element><element><id>Relation</id><coordinates><x>120</x><y>230</y><w>150</w><h>50</h></coordinates><panel_attributes>lt=&lt;&lt;-
+es un</panel_attributes><additional_attributes>10;10;130;30</additional_attributes></element><element><id>UMLClass</id><coordinates><x>350</x><y>390</y><w>190</w><h>70</h></coordinates><panel_attributes>PolimonFirsmo
+-
+-
+_+main:(String[]):void_</panel_attributes><additional_attributes></additional_attributes></element></diagram>
